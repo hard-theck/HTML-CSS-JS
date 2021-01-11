@@ -74,7 +74,7 @@ color: rgb(202, 15, 15);
 }
 
 .box::after {
-    filter: blur(20px);
+    filter: blur(50px);
   }
 
   @keyframes animate {
